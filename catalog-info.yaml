@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: marvin-corea-cvshealth/everyauth
 spec:
-  type: other
+  type: auth
   lifecycle: unknown
   owner: marvin-corea-cvshealth
